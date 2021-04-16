@@ -6,10 +6,9 @@ The ATM will service one customer at a time. A customer will be required to ente
 
 System Specifications:
 
-•	Hardware Requirements:
-o	Processor: Intel Core i5 8th Gen, Processor Speed: 2.7 GHz, RAM: 8GB, Hard Disk: 40GB
+•	Hardware Requirements: Processor: Intel Core i5 8th Gen, Processor Speed: 2.7 GHz, RAM: 8GB, Hard Disk: 40GB
  
 •	Software Requirements:
-o	Operating System: Microsoft Windows 10, Front-End: Microsoft Visual Studio Code, Programming Language: C
+Operating System: Microsoft Windows 10, Front-End: Microsoft Visual Studio Code, Programming Language: C
 
 
