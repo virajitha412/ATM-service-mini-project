@@ -12,4 +12,4 @@ System Specifications:
 •Software Requirements:
  o Operating System: Microsoft Windows 10
  o Front-End: Microsoft Visual Studio Code
-o	Programming Language: C
+ o Programming Language: C
