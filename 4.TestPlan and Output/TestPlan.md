@@ -12,4 +12,4 @@
 |---|---|---|---|
 |1|Allow multiple actions|Perform actions|Passed|
 |2|Withdraw amount should be less than balance amount|Minimum withdraw|Passed|
-|3|Allow multiple actions|Updation|Passed|
+|3|Updating balance after withdrawl|Updation|Passed|
