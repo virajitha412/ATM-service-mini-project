@@ -13,6 +13,4 @@
 |1|Allow multiple actions|Perform actions|Passed|
 |2|Withdraw amount should be less than balance amount|Minimum withdraw|Passed|
 |3|Updating balance after withdrawl|Updation|Passed|
-# Output
-# ![Test Output](https://user-images.githubusercontent.com/82267073/115015271-05f18580-9ed1-11eb-9b1f-4b80519cc043.png)
 
