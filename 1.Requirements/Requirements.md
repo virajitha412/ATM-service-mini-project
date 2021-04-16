@@ -33,3 +33,4 @@ The ATM will service one customer at a time. A customer will be required to ente
 |---|---|---|
 |1|Good readability of the code|Implemented|
 |2|The program should be open for development|Implemented|
+|3|Allow multiple actions|Implemented|
